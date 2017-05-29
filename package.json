@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Short coding challenge for Boost",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banjo-classico/BoostCodeChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banjo-classico/BoostCodeChallenge/issues"
+  },
+  "homepage": "https://github.com/banjo-classico/BoostCodeChallenge#readme",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
