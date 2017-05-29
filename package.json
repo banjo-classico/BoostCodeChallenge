@@ -4,7 +4,6 @@
   "description": "Short coding challenge for Boost",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
   },
   "repository": {
     "type": "git",
